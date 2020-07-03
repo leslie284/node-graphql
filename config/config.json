@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "pinki",
+    "password": "password",
+    "database": "mydb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "pinki",
+    "password": "password",
+    "database": "mydb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "pinki",
+    "password": "password",
+    "database": "mydb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
